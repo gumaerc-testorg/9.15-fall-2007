@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39b60020-d468-7ffc-f416-74c0c8e4a4cb
 resourcetype: Document
 title: recitation1.pdf
 uid: 7818f4dd-4c37-16ed-9544-5c15742bf2e6

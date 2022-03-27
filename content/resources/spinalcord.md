@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39b60020-d468-7ffc-f416-74c0c8e4a4cb
 resourcetype: Document
 title: Spinal Cord Section
 uid: 994f8d5e-edca-cb25-42df-c3ba224f96f8

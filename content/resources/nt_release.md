@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39b60020-d468-7ffc-f416-74c0c8e4a4cb
 resourcetype: Document
 title: nt_release.pdf
 uid: c8bd9c1d-3ce3-5bc2-a6aa-cb4d0790ba5e
