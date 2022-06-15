@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides potential topics for the undergraduate paper assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
