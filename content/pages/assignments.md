@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides potential topics for the undergraduate paper assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6db21c67-600a-a734-e6d1-b7f8b9963bb5
 ---
