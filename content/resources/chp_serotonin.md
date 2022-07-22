@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Serotonin
 uid: 0d2e2d79-14d8-eb35-e060-abe70f9745c4
 ---
 Image of the neurotransmitter serotonin. (Image courtesy of MIT's Department of Brain and Cognitive Sciences.)
-
