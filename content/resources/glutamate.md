@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on Glutamate Structure.
-file: /courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/2210854cb1082f48efa68e6764b39d90_glutamate.pdf
+file: /ol-ocw-studio-app/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/2210854cb1082f48efa68e6764b39d90_glutamate.pdf
 file_size: 25746
 file_type: application/pdf
 learning_resource_types: []
