@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on antidepressants.
-file: /ol-ocw-studio-app/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/0ccbcb0d20d6d5f89c0214ddfdd1cda4_antidepressants.pdf
+file: /courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/0ccbcb0d20d6d5f89c0214ddfdd1cda4_antidepressants.pdf
 file_size: 65034
 file_type: application/pdf
 learning_resource_types: []
