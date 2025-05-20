@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture handout with a diagram of a Spinal Cord Section, highlighting
   the dorsal root, the ventral root, the dorsal horn, the ventral horn, and the dorsal
   root ganglion.
-file: /ol-ocw-studio-app/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/994f8d5eedcacb2542dfc3ba224f96f8_spinalcord.pdf
+file: /courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/994f8d5eedcacb2542dfc3ba224f96f8_spinalcord.pdf
 file_size: 126139
 file_type: application/pdf
 learning_resource_types: []
